@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hallgatóknak:
+### Programozási nyelvek 1:
+ * - [Prog. 1](https://github.com/suvicsabika/):
+
+### Szkriptnyelvek:
+ * - [Szkript.](https://github.com/suvicsabika/):
+
 
 <!--
 **suvicsabika/suvicsabika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
