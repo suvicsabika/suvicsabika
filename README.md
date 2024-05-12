@@ -1,4 +1,4 @@
-## Hallgatóknak:
+## Hallgatóknak (2023/2024/2):
 
  * [Programozási nyelvek 1](https://github.com/suvicsabika/prog1_2024_tavasz_08L)
  * [Szkriptnyelvek](https://github.com/suvicsabika/szkriptnyelvek_2024_tavasz_02L)
