@@ -1,10 +1,11 @@
 ## Hallgatóknak:
-### Programozási nyelvek 1:
- * - [Prog. 1](https://github.com/suvicsabika/):
 
-### Szkriptnyelvek:
- * - [Szkript.](https://github.com/suvicsabika/):
+ * [Programozási nyelvek 1](https://github.com/suvicsabika/prog1_2024_tavasz_08L)
+ * [Szkriptnyelvek](https://github.com/suvicsabika/szkriptnyelvek_2024_tavasz_02L)
 
+## Aktív, fejlesztés alatt álló projektek:
+
+ * [Mobil megoldások](https://github.com/suvicsabika/uzemanyag_figyelo)
 
 <!--
 **suvicsabika/suvicsabika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
